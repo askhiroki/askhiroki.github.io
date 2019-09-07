@@ -12,6 +12,6 @@ Tut Mir leid, Website - pflege IST!
 申し訳ありませんが、ウェブサイトはメンテナンス中です！
 
 ---
-您可以点[这里](https://hiroki.vip:5000)重新尝试！
+您可以点[这里](https://askhiroki.github.io)重新尝试！
 
 **Hiroki.Ask**
